@@ -1,0 +1,9 @@
+Modify the following variable, 
+	ftpserver='IP Address';
+	ftpuser='ftp-username'
+	ftppass="ftp-password"
+  
+Modify the alerts if needed
+emailalert="mailid@domain.com mailid@domain.com mailid@domain.com"
+
+then run the script using cron
